@@ -1,0 +1,27 @@
+
+@font-face {font-family: Cyberpunk; 
+src: url(Cyberpunk-Regular.ttf);
+
+}
+
+
+h1 {font-family: Cyberpunk;}
+{font-size: 500px;}
+h2 {font-family: Cyberpunk;}
+{font-size: 16px;}
+
+
+p {font-family: Cyberpunk;}
+{font-size: 16px;}
+
+
+html     
+  {cursor: url(https://cur.cursors-4u.net/symbols/sym-4/sym360.cur), auto !important;
+    
+    
+    
+    
+    background-image: url(rihannacoding.jpeg);
+background-size: 100%} 
+
+body {text-align: center;}
